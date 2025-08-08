@@ -28,7 +28,7 @@ Calculate the percentage of PHEVs relative to the total number of electric vehic
 
 
 
-# Charts Requirement
+Charts Requirement
 
 1.Total Vehicles by Model Year (From 2010 Onwards):
 Visualization: Line/ Area Chart
